@@ -1,0 +1,12 @@
+{
+  "manifest_version": 2,
+
+  "name": "My Anime List Extension",
+  "description": "Extension that will allow the user to view and edit their list",
+  "version": "0.1",
+
+  "browser_action": {
+    "default_popup": "popup.html"
+  },
+  "permissions": [ "http://myanimelist.net/*"]
+  }

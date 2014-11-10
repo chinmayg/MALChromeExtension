@@ -1,0 +1,10 @@
+API: Everything except actually getting the lists:
+http://myanimelist.net/modules.php?go=api
+
+Anime List:
+http://myanimelist.net/malappinfo.php?u=<user>&status=all&type=anime
+
+Manga List:
+http://myanimelist.net/malappinfo.php?u=<user>&status=all&type=manga
+
+<user>
