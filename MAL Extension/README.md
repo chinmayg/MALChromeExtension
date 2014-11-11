@@ -1,6 +1,4 @@
-Google-Play-Music-Extension
+My Anime List Extension
 ===========================
 
-Adds easy dropdown controls and keyboard shortcuts to Google Play Music.
-
-Works with All Access.
+Allows you to view and edit your anime and manga lists
